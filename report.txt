@@ -1,0 +1,24 @@
+STUDENT ANALYSIS REPORT
+
+Average Marks per Subject:
+Math : 74.00
+Science : 79.60
+computer : 78.00
+History : 78.00
+
+Top Student per Subject:
+Math : Sara (90)
+Science : Sara (95)
+computer : Ali (90)
+History : Ali (90)
+
+Failed Students:
+Aman - Math (55)
+Sara - computer (55)
+Sara - History (55)
+
+Highest Marks per Subject:
+Math : Sara (90)
+Science : Sara (95)
+computer : Ali (90)
+History : Ali (90)
